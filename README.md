@@ -1,3 +1,3 @@
 ### Hello
 
-I am Andrew S. A programmer looking for new languages to code in.
+I am Andrew. A programmer looking for new languages to code in.
